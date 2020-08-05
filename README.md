@@ -17,3 +17,11 @@ Added Rigged Hands that can be used for both 3px and 4px skins and can blend in 
 Made second layers more dependent on the Base / First layer's bones!
 
 Minor fixes
+
+CCDRv3.3 Update
+
+Changed the way the body is rigged
+
+Reorganized the rig to fit the new body
+
+Added addition Notes
